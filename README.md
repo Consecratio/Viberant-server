@@ -29,3 +29,10 @@ This repository is the server side that's needed to run the Viberant App
 [ ] Create mobile friendly pages.
 
 [ ] Allow users to filter posts by tag.
+
+## Installation Instructions
+---
+1. Run `npm install`
+
+1. Create a `.env`
+   1. Add variables for `MONGODB_URI` and `JWT_SECRET`
